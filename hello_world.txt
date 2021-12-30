@@ -1,0 +1,1 @@
+Learning how to use and operate Git has been one of the hardest things I've ever done with a machine.
